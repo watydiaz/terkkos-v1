@@ -22,3 +22,18 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Laravel
+/storage/framework/
+/storage/app/public/
+
+# Vite
+/dist/
+
+# Otros
+*.sqlite
+*.sqlite3
+npm-debug.log
+yarn-error.log
+*.swp
+*.swo
